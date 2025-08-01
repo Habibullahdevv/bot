@@ -1,0 +1,9 @@
+streamlit
+pandas
+ta
+selenium
+beautifulsoup4
+requests
+python-dotenv
+streamlit-authenticator
+chromedriver-autoinstaller
